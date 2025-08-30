@@ -1,0 +1,474 @@
+{
+  "Bahrain - BH": [
+    "Shop 143, Building, 10 Road 81, Manama, Bahreïn",
+    "+973 39 33 93 09",
+    [
+      26.2235305,
+      50.5875935
+    ]
+  ],
+  "Marassi - BH": [
+    "Marassi Bahrain Mall",
+    "+97339339309",
+    [
+      26.301717,
+      50.64281339999999
+    ]
+  ],
+  "Martigny - VS": [
+    "Centre Quartz 1er étage, Av. de Fully 63, 1920 Martigny",
+    "+41275651800",
+    [
+      46.112261,
+      7.076725
+    ]
+  ],
+  "Köln-West - 50259": [
+    "Siemensstraße 1-5, 50259 Pulheim",
+    "+4922129235680",
+    [
+      50.9930296,
+      6.8164925
+    ]
+  ],
+  "Unna - 59423": [
+    "Massener Str. 116, 59423 Unna, Germany",
+    "+4923036768208",
+    [
+      51.5327637,
+      7.6710095
+    ]
+  ],
+  "Madrid - MAD": [
+    "Calle Campezo 3, Nave 7 - 28022 Madrid",
+    "+34912657788",
+    [
+      40.4465097,
+      -3.5816647
+    ]
+  ],
+  "Amiens - 80": [
+    "100 Rue Emile Zola, 80450 Camon",
+    "03 64 26 08 52",
+    [
+      49.8974098,
+      2.341295
+    ]
+  ],
+  "Angoulême - 16": [
+    "675 Rue de la génoise 16430 Champniers",
+    "+33668693739",
+    [
+      45.6897586,
+      0.1841173
+    ]
+  ],
+  "Avignon - 84": [
+    "222 rue des Vanniers, 84130 LE PONTET",
+    "+33",
+    [
+      43.982458,
+      4.862637
+    ]
+  ],
+  "Bayonne - 64": [
+    "1 rue de Chalibardon 64100 Bayonne",
+    "+33 5 59 63 24 70",
+    [
+      43.4906486,
+      -1.4531343
+    ]
+  ],
+  "Beauchamp - 95": [
+    "3-15 rue Denis Papin 95250 Beauchamp",
+    "01 39 32 98 17",
+    [
+      49.01757509999999,
+      2.1767972
+    ]
+  ],
+  "Bordeaux-Lac - 33": [
+    "9 rue Dumont d'Urville 33300 Bordeaux",
+    "0540451619",
+    [
+      44.87939679999999,
+      -0.5586086
+    ]
+  ],
+  "Bordeaux Sud - 33": [
+    "Immeuble ortatlissa Avenue du 7ème Art 33140 VILLENAVE-D'ORNON",
+    "+33",
+    [
+      44.788205,
+      -0.5316299
+    ]
+  ],
+  "Brétigny-Sur-Orge - 91": [
+    "EVA, 52 Av de la Commune de Paris, Brétigny-sur-Orge 91220",
+    "+33185460337",
+    [
+      48.5877461,
+      2.2995204
+    ]
+  ],
+  "Caen - 14": [
+    "20 rue Michel Tournier 14120 MONDEVILLE",
+    "+33 6 50 02 55 26",
+    [
+      49.1691629,
+      -0.3187845
+    ]
+  ],
+  "Cannes - 06": [
+    "155 chemin de font Graissan, 06250 Mougins",
+    "+33 7 49 10 57 69",
+    [
+      43.5823641,
+      7.011522299999999
+    ]
+  ],
+  "Clermont-Ferrand - 63": [
+    "72 rue de sauzes, 63170 Aubière",
+    "04 44 05 05 38",
+    [
+      45.7574377,
+      3.1379574
+    ]
+  ],
+  "Dijon - 21": [
+    "1 Rue des Ponnières, 21121 Fontaine-lès-Dijon",
+    "0310451930",
+    [
+      47.35494389999999,
+      5.025628
+    ]
+  ],
+  "Evreux - 27": [
+    "10 rue de Cocherel 27000 Evreux",
+    "0232244001",
+    [
+      49.0218409,
+      1.1767959
+    ]
+  ],
+  "Genk - 3600": [
+    "Sledderloweg 98 3600 Genk",
+    "+32 492 49 77 77",
+    [
+      50.9467498,
+      5.5114697
+    ]
+  ],
+  "Grenoble - 38": [
+    "3 rue Baptiste Marcet 38600 Fontaine",
+    "04 80 42 07 30",
+    [
+      45.203753,
+      5.68684
+    ]
+  ],
+  "Hénin Beaumont - 62": [
+    "366 boulevard de Herne 62110 Henin Beaumont",
+    "+33 7 59 49 66 28",
+    [
+      50.4046326,
+      2.9711341
+    ]
+  ],
+  "Lançon-Provence - 13": [
+    "137 allée de la carretto, Route de saint Chamas, 13680 Lançon-Provence",
+    "+33619099382",
+    [
+      43.587164,
+      5.1113971
+    ]
+  ],
+  "La Rochelle - 17": [
+    "3 rue Jacques de Vaucanson, 17180 Périgny",
+    "0517811274",
+    [
+      46.16521849999999,
+      -1.1059684
+    ]
+  ],
+  "Le Havre - 76": [
+    "Complexe NEF, 51 rue Pierre Semard 76600 Le Havre",
+    "+33 2 19 23 13 53",
+    [
+      49.4975436,
+      0.1478088
+    ]
+  ],
+  "Les Mureaux - 78": [
+    "13 Rue Antoine Becquerel, 78130 Les Mureaux",
+    "0130220169",
+    [
+      48.9821625,
+      1.8952872
+    ]
+  ],
+  "Liège - 4470": [
+    "Chaussée Verte 96, 4470 Saint-Georges-sur-Meuse",
+    "+3242773635",
+    [
+      50.6018132,
+      5.3472471
+    ]
+  ],
+  "Lille - 59": [
+    "4 rue Professeur Langevin - Btwin Village",
+    "06 61 81 83 92",
+    [
+      50.6173641,
+      3.0844784
+    ]
+  ],
+  "Limoges - 87": [
+    "56 AV General Martial Valin 87000 Limoges",
+    "+33672824421",
+    [
+      45.8061104,
+      1.2751748
+    ]
+  ],
+  "Lyon Nord - 69": [
+    "466 rue des mercières 69140 RILLIEUX LA PAPE",
+    "+33782925121",
+    [
+      45.81760810000001,
+      4.881537499999999
+    ]
+  ],
+  "Lyon sud - 69": [
+    "50 Rue Jean Zay, 69800 Saint-Priest",
+    "+33 4 85 96 05 10",
+    [
+      45.71272250000001,
+      4.9072987
+    ]
+  ],
+  "Malmedy - 4960": [
+    "Avenue Monbijou 34c, 4960 Malmedy",
+    "+32488440049",
+    [
+      50.4199529,
+      6.0423145
+    ]
+  ],
+  "Marseille - 13": [
+    "73 boulevard de Saint Marcel 13011 Marseille",
+    "09 79 16 97 65",
+    [
+      43.2895366,
+      5.460416599999999
+    ]
+  ],
+  "Maurepas - 78": [
+    "rue Francois Cevert, 78310 Maurepas",
+    "0130629147",
+    [
+      48.7579348,
+      1.9234127
+    ]
+  ],
+  "Meaux - 77": [
+    "6 avenue Louise Michel 77100 Nanteuil Les Meaux",
+    "+33 7 62 65 55 15",
+    [
+      48.9375513,
+      2.8862051
+    ]
+  ],
+  "Metz - 57": [
+    "4 Rue du Chemin de Fer, 57160 Moulins-lès-Metz",
+    "+33 6 64 58 43 27",
+    [
+      49.0976902,
+      6.1568763
+    ]
+  ],
+  "Montauban - 82": [
+    "1433 Route du Nord",
+    "+33 6 70 31 44 96",
+    [
+      45.72299539999999,
+      -74.46027099999999
+    ]
+  ],
+  "Nancy - 54": [
+    "17 Rue Grand Rabbin Haguenauer, 54000 Nancy",
+    "+33 3 72 47 23 84",
+    [
+      48.6872228,
+      6.180618700000001
+    ]
+  ],
+  "Nantes - 44": [
+    "18 bis rue Marie Curie 44230 Saint Sébastien sur Loire",
+    "02 40 69 82 42",
+    [
+      47.189988,
+      -1.484283
+    ]
+  ],
+  "Nîmes - 30": [
+    "400 av Claude Baillet, centre commercial cap costière, 30 000 Nimes",
+    "+33 4 66 05 08 34",
+    [
+      43.812435,
+      4.361956999999999
+    ]
+  ],
+  "Orléans - 45": [
+    "Parc d’Activités des Vallées - Rue des Entrepreneurs, 45700 Saran",
+    "+33 6 84 07 74 63",
+    [
+      47.9441299,
+      1.8949172
+    ]
+  ],
+  "Paris Est - 93": [
+    "145 boulevard chanzy 93100 Montreuil",
+    "+33 9 78 45 30 25",
+    [
+      48.8592071,
+      2.4249426
+    ]
+  ],
+  "Perpignan - 66": [
+    "347 Rue Louis Delage, 66000 Perpignan",
+    "+33 4 68 21 81 62",
+    [
+      42.740449,
+      2.890756
+    ]
+  ],
+  "Reims - 51": [
+    "15 rue des Compagnons 51350 Cormontreuil",
+    "06 38 05 97 84",
+    [
+      49.21681359999999,
+      4.0642016
+    ]
+  ],
+  "Rennes - 35": [
+    "4 rue de Bray 35510 Cesson Sévigné",
+    "0299343277",
+    [
+      48.1039493,
+      -1.6310644
+    ]
+  ],
+  "Rouen - 76": [
+    "10 rue Pierre Gilles de Gennes 76130 Mont-Saint-Aignan",
+    "02 78 08 94 46",
+    [
+      49.4751177,
+      1.0897862
+    ]
+  ],
+  "Saint Brieuc - 22": [
+    "14 Rue Pierre de Coubertin 22440 Ploufragan",
+    "+33 2 96 76 02 46",
+    [
+      48.49866480000001,
+      -2.766495
+    ]
+  ],
+  "Saint-Étienne - 42": [
+    "28 rue de la Presse, 42000 Saint-Étienne",
+    "+33477369670",
+    [
+      45.4562314,
+      4.3982047
+    ]
+  ],
+  "Saint-Quentin - 02": [
+    "191 rue Georges Pompidou 02100 Saint-Quentin",
+    "+33323043668",
+    [
+      49.86194769999999,
+      3.2910025
+    ]
+  ],
+  "Strasbourg - 67": [
+    "21 rue de l'industrie 67400 ILLKIRCH GRAFFENSTADEN",
+    "03 88 31 29 64",
+    [
+      48.5326692,
+      7.731585000000001
+    ]
+  ],
+  "Thionville - 57": [
+    "1Bis Rue Girolamo Cardano, 57290 Fameck",
+    "+33 6 16 28 43 59",
+    [
+      49.3025199,
+      6.1192661
+    ]
+  ],
+  "Toulouse - 31": [
+    "9 Avenue de la Marcaissonne 31400 Toulouse",
+    "05 61 45 07 88",
+    [
+      43.5746282,
+      1.4987789
+    ]
+  ],
+  "Tours - 37": [
+    "11 Rue Louis Pasteur 37550 Saint Avertin",
+    "02 47 39 60 81",
+    [
+      47.3450544,
+      0.732617
+    ]
+  ],
+  "Troyes - 10": [
+    "15 Av. de la Maille, 10800 Saint-Julien-les-Villas",
+    "+33 7 52 03 51 47",
+    [
+      48.2743806,
+      4.0860368
+    ]
+  ],
+  "Valence - 26": [
+    "Av. du Président Salvador Allende, 26800 Portes-lès-Valence",
+    "+33685310068",
+    [
+      44.8875185,
+      4.8795745
+    ]
+  ],
+  "Kuala Lumpur - MY": [
+    "Monkeys Canopy, Lot 683, Persiaran Sungai Long Hill, Sungai Long, 43200 Sungai Long, Selangor, Malaisie",
+    "+60 10 908 5818",
+    [
+      3.0384479,
+      101.7922372
+    ]
+  ],
+  "București - RO": [
+    "Strada Biharia 67, București 077190, Romania",
+    "+40757777724",
+    [
+      44.49554,
+      26.0987267
+    ]
+  ],
+  "Al Khobar - 34437": [
+    "EKGA2568, 8878, Al Andalus, Al Khobar 34437, Saudi Arabia",
+    "+966549677161",
+    [
+      26.3285219,
+      50.18203889999999
+    ]
+  ],
+  "Jeddah - 22245": [
+    "Building 8799, Al-Faihaa, Prince Majid Road, District, Jeddah 22245, Saudi Arabia",
+    "+96654 060 2817",
+    [
+      21.5037946,
+      39.2225016
+    ]
+  ]
+}

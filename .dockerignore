@@ -1,0 +1,44 @@
+﻿# Python cache et builds
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+
+# Environnements virtuels  
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs locaux
+*.log
+logs/
+
+# Fichiers d'environnement sensibles
+.env
+.env.local
+.env.development
+
+# Fichiers temporaires
+*.tmp
+*.temp
+output/
+
+# Docker (évite la récursion)
+Dockerfile*
+docker-compose*
+.dockerignore

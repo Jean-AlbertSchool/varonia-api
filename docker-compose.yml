@@ -1,0 +1,21 @@
+﻿version: '3.8'
+
+services:
+  # Pipeline Varonia - Image de production
+  varonia:
+    build: .
+    container_name: varonia-pipeline
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
+      - GEONAMES_USER=${GEONAMES_USER:-jean_lec}
+      - PREDICTHQ_TOKEN=${PREDICTHQ_TOKEN:-}
+      - SUPABASE_URL=${SUPABASE_URL:-}
+      - SUPABASE_KEY=${SUPABASE_KEY:-}
+    volumes:
+      - ./Data:/app/Data:ro
+      - ./Python:/app/Python:ro
+      - ./output:/app/output
+      - ./logs:/app/logs
+    working_dir: /app
+    # Par défaut lance le script principal
+    command: ["python", "Python/data_prep/data_prep.py"]
